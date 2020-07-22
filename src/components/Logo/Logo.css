@@ -1,0 +1,7 @@
+.Tilt{
+	background: linear-gradient(to right, #FF5EDF 10% , #04C8DE 100% );
+	padding: 10px;
+	border-radius: 25%;
+
+}
+.shadow-55 { box-shadow: 4px 4px 8px 2px rgba( 0, 0, 0, .4 ); }
